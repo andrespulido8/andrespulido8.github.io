@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: ["ECE 470: Introduction to Robotics"](https://publish.illinois.edu/ece470-intro-robotics/)
 collection: teaching
-type: "Workshop"
+type: "Teaching assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+date: 2019-09-01 - Present
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Developed homework and quizzes on [PrarieLearn](https://prairielearn.engr.illinois.edu/pl/login), an online learning and assessment tool. 
+- Monitored and Advised student projects
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

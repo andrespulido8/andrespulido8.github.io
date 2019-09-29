@@ -15,6 +15,7 @@ url                      : https://shuijing725.github.io # the base hostname & p
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shuijing725/Shuijing725.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+github                   : [metadata]
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,8 +83,9 @@ analytics:
 author:
   name             : "Shuijing Liu"
   avatar           : "profile.png"
-  bio              : "Machine learning researcher, bubble tea master"
-  location         : "Champaign, IL, USA"
+  bio              : "Machine learning researcher, amateur artist, bubble tea master"
+  email            : "sliu105@illinois.edu"
+  location         : "3080 Electrical and Computer Engineering Building"
   employer         :
   pubmed           :
   googlescholar    :
