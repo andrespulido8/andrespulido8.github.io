@@ -84,12 +84,11 @@ author:
   name             : "Shuijing Liu"
   avatar           : "profile.png"
   bio              : "Machine learning researcher, amateur artist, bubble tea master"
-  email            : "sliu105@illinois.edu"
-  location         : "3080 Electrical and Computer Engineering Building"
+  location         : 3080 ECEB
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "sliu105@illinois.edu"
   researchgate     :
   uri              :
   bitbucket        :

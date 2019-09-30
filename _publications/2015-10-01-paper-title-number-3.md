@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
