@@ -2,7 +2,7 @@
 layout: archive
 title: "Slides"
 permalink: /slides/
-author_profile: true
+author_profile: false
 ---
 Here are some slides I made for presentations of interesting papers.
 - [Robust Adversarial Reinforcement Learning by Pinto et al.] (/files/rarl_shuijing.pdf)
