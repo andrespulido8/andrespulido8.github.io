@@ -18,7 +18,7 @@ We explore the interpretation of sound for robot decision-making, inspired by hu
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
 deep neural network which directly learns control polices from images and sound signals.
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
-<img src="images/rsi_opening.png" width="500" />
+<img src="/images/rsi_opening.png" width="500" />
 
 ### Robust Deep Reinforcement Learning with Adversarial Attacks
 We propose adversarial attacks for Reinforcement Learning (RL) algorithms and then improves the robustness of these algorithms 
