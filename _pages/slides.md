@@ -2,13 +2,19 @@
 layout: archive
 title: "Slides"
 permalink: /slides/
-author_profile: false
+author_profile: true
 ---
 Here are some slides I made for presentations of interesting papers.
-- [Robust Adversarial Reinforcement Learning by Pinto et al.] (/files/rarl_shuijing.pdf)
-[[Original paper]](https://arxiv.org/abs/1703.02702)
+- Robust Adversarial Reinforcement Learning by Pinto et al.
+  - [[Original paper]](https://arxiv.org/abs/1703.02702)
+  - [My slides](/files/rarl_shuijing.pdf)
 
-- [A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning](/files/20190926_DAgger.pdf) 
-[[Original paper]](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf)
+- A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning by Ross et al.
+  - [[Original paper]](https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf)
+  - [My slides](/files/20190926_DAgger.pdf) includes an overview of previous imitation learning algorithms that led to the development of DAgger algorithm in this paper
+
+- Asynchronous Multi-Agent Generative Adversarial Imitation Learning by Anonymous authors
+  - [[Original Paper]](https://openreview.net/forum?id=Syx33erYwH)
+  - [My slides](/files/AMAGAIL_Shuijing_20191012.pdf) includes an overview of GAIL and its extension to multi-agent games.
 
 (more slides are on the way!)
