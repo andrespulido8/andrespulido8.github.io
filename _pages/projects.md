@@ -17,7 +17,7 @@ machine learning technique.
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
 deep neural network which directly learns control polices from images and sound signals.  
-[[Paper]](https://arxiv.org/abs/1909.09172) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
+[[Paper]](https://arxiv.org/abs/1909.09172) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)  
 <img src="/images/rsi_opening.png" width="800" />
 
 ### Robust Deep Reinforcement Learning with Adversarial Attacks
@@ -32,4 +32,4 @@ With recent advances in computer vision and machine intelligence, we tackle this
 positive or negative classes using a state-of-art convolutional neural network called ResNet. We achieved around 82% accuracy 
 on some datasets and further boosted the accuracy to nearly 100% by ensemble methods.  
 [[Abstract]](https://www.ideals.illinois.edu/handle/2142/100023) [[Paper]](/files/ECE499-Sp2018-liu-Shuijing.pdf) [[Slides]](/files/senior_thesis_presentation.pdf)
-<img src="/images/cancer_diagnosis.png" width="800" />
+<img src="/images/cancer_diagnosis.png" width="1100" />
