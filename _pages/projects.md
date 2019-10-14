@@ -32,4 +32,6 @@ With recent advances in computer vision and machine intelligence, we tackle this
 positive or negative classes using a state-of-art convolutional neural network called ResNet. We achieved around 82% accuracy 
 on some datasets and further boosted the accuracy to nearly 100% by ensemble methods.  
 [[Abstract]](https://www.ideals.illinois.edu/handle/2142/100023) [[Paper]](/files/ECE499-Sp2018-liu-Shuijing.pdf) [[Slides]](/files/senior_thesis_presentation.pdf)
+<div class="imageContainer">
 <img src="/images/cancer_diagnosis.png" width="1100" />
+</div>
