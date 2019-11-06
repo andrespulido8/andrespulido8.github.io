@@ -8,11 +8,13 @@ author_profile: true
 
 ### Decentralized Vision-based Robot Crowd Navigation
 State-of-art decentralized robot crowd navigation algorithms have assumed full state observability of all agents in the environment. 
-But the sensor measurement of full state information can be expensive and unreliable. To achieve safe and low-cost robot crowd
-navigation, we plan to replace the input of the deep reinforcement learning network with camera images in the robot's view, 
+But the sensor measurement of full state information can be expensive and sometimes inaccessible. To achieve safe and low-cost robot crowd
+navigation, we reformulate this problem by replacing the sensors with only one RGBD camera, 
 thus removing the full observability assumption.
 For now, we find the performance of state-of-art algorithms degrade significantly if the robot only has a limited field-of-view. 
+<img src="/images/CrowdMove.png" width="800" />   
 
+(Photo credit https://gamma.umd.edu)
 ## Past projects
 
 ### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
