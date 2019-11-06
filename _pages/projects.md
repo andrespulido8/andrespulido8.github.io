@@ -12,7 +12,7 @@ But the sensor measurement of full state information can be expensive and someti
 navigation, we reformulate this problem by replacing the sensors with only one RGBD camera, 
 thus removing the full observability assumption.
 For now, we find the performance of state-of-art algorithms degrade significantly if the robot only has a limited field-of-view. 
-<img src="/images/CrowdMove.png" width="800" />   
+<img src="/images/CrowdMove.jpg" width="800" />   
 
 (Photo credit https://gamma.umd.edu)
 ## Past projects
