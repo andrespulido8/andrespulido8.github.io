@@ -15,7 +15,7 @@ For now, we find the performance of state-of-art algorithms degrade significantl
 
 ## Past projects
 
-### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control] (https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
+### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
 deep neural network which directly learns control polices from images and sound signals.  
