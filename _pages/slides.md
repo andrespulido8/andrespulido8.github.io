@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Slides"
+title: "Tutorials"
 permalink: /slides/
 author_profile: true
 ---
-Here are some slides I made for presentations of interesting papers.
+Here are some tutorial slides I made for interesting papers/skills. 
 - Robust Adversarial Reinforcement Learning by Pinto et al.
   - [[Original paper]](https://arxiv.org/abs/1703.02702)
   - [My slides](/files/rarl_shuijing.pdf)
@@ -16,5 +16,7 @@ Here are some slides I made for presentations of interesting papers.
 - Asynchronous Multi-Agent Generative Adversarial Imitation Learning by Anonymous authors
   - [[Original Paper]](https://openreview.net/forum?id=Syx33erYwH)
   - [My slides](/files/AMAGAIL_Shuijing_20191012.pdf) includes an overview of GAIL and its extension to multi-agent games.
+
+- [Introduction level LaTex Tutorial slides](/files/latex_tutorial.pdf)
 
 (more slides are on the way!)
