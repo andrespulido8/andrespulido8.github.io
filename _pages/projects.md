@@ -6,10 +6,12 @@ author_profile: true
 ---
 ## Current projects
 
-### Decentralized Human-Robot Interaction in Crowded Environment
-To enable robots to achieve tasks in a real-world multi-agent environment (such as navigation, people following, etc), 
-we want to develop a perception and decision making system that takes the interaction with other agents into account using 
-machine learning technique. 
+### Decentralized Vision-based Robot Crowd Navigation
+State-of-art decentralized robot crowd navigation algorithms have assumed full state observability of all agents in the environment. 
+But the sensor measurement of full state information can be expensive and unreliable. To achieve safe and low-cost robot crowd
+navigation, we plan to replace the input of the deep reinforcement learning network with camera images in the robot's view, 
+thus removing the full observability assumption.
+For now, we find the performance of state-of-art algorithms degrade significantly if the robot only has a limited field-of-view. 
 
 ## Past projects
 
