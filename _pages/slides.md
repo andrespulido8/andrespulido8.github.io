@@ -21,4 +21,3 @@ Here are some tutorial slides I made for interesting papers/skills.
 
 - A review of robot crowd navigation 
   - [My slides](/files/crowd_nav_shuijing.pdf)
-(more slides are on the way!)
