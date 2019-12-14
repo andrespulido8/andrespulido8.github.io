@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Please find my CV [here](/files/cv_draft.pdf).
+Please find my CV [here](/files/CV_shuijing.pdf).

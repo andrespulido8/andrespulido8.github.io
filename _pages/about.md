@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Shuijing Liu. I am a second year M.S. student in Electrical and Computer Engineering, University of
-Illinois at Urbana Champaign. I am working with Professor [Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
-I got my Bachelor's Degree in Computer Engineering from University of Illinois at Urbana Champaign in 2018.
+Hello, my name is Shuijing Liu. I'm a second year M.S. student in [Electrical and Computer Engineering](https://ece.illinois.edu), 
+[University of Illinois at Urbana Champaign](https://illinois.edu), advised by Professor [Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
+ My research interest lies at the intersection of machine learning and robotics, specifically in robotic perception and 
+ decision making in crowded environments. My long term goal is to enable interactive robots to serve people in daily life.   
+ 
+Previously, I earned my Bachelor's Degree in Computer Engineering from University of Illinois at Urbana Champaign in May 2018.
 
 Research interests:
 
-- Reinforcement Learning in Robotics
-- Machine Learning
-- Artificial Intelligence
+- Artificial Intelligence 
+- Intelligent Robotics
+- Human-Robot Interaction
 
 
 

@@ -17,6 +17,8 @@ Here are some tutorial slides I made for interesting papers/skills.
   - [[Original Paper]](https://openreview.net/forum?id=Syx33erYwH)
   - [My slides](/files/AMAGAIL_Shuijing_20191012.pdf) includes an overview of GAIL and its extension to multi-agent games.
 
-- [Introduction to LaTex](/files/latex_tutorial.pdf)
+- [Introduction to LaTeX](/files/latex_tutorial.pdf)
 
+- A review of robot crowd navigation 
+  - [My slides](/files/crowd_nav_shuijing.pdf)
 (more slides are on the way!)

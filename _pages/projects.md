@@ -11,8 +11,10 @@ State-of-art decentralized robot crowd navigation algorithms have assumed full s
 But the sensor measurement of full state information can be expensive and sometimes inaccessible. To achieve safe and low-cost robot crowd
 navigation, we reformulate this problem by replacing the sensors with only one RGBD camera, 
 thus removing the full observability assumption.
-For now, we find the performance of state-of-art algorithms degrade significantly if the robot only has a limited field-of-view. 
-<img src="/images/CrowdMove.jpg" width="800" />   
+We find the performance of state-of-art algorithms degrade significantly if the robot only has a limited field-of-view. 
+We plan to use only an RGB camera for solving the partially observable crowd navigation problem.  
+
+<img src="/images/CrowdMove.jpg" width="600" />   
 
 (Photo credit https://gamma.umd.edu)
 ## Past projects
