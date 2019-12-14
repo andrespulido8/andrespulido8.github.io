@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuijing Liu (刘水竞)"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
