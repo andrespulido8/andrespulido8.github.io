@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shuijing Liu (刘水竞)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Shuijing Liu. I'm a second year M.S. student in [Electrical and Computer Engineering](https://ece.illinois.edu), 
+I'm a second year M.S. student in [Electrical and Computer Engineering](https://ece.illinois.edu), 
 [University of Illinois at Urbana Champaign](https://illinois.edu), advised by Professor [Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
  My research interest lies at the intersection of machine learning and robotics, specifically in robotic perception and 
  decision making in crowded environments. My long term goal is to enable interactive robots to serve people in daily life.   
