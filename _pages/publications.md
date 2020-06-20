@@ -7,8 +7,7 @@ author_profile: true
 
 ### **Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control**  
 Peixin Chang, **Shuijing Liu**, Haonan Chen, Katherine Driggs-Champbell.   
-arXiv Preprint, Preprint.  
-Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2020. (Under review)  
+<i>arXiv Preprint,</i> Preprint.  
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
 
 ### **Robust Deep Reinforcement Learning with Adversarial Attacks**  

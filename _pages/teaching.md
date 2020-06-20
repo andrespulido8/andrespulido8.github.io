@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Graduate Teaching Assistant
-[ECE 470: Introduction to Robotics](https://publish.illinois.edu/ece470-intro-robotics/) (Fall 2019)
+[ECE 470: Introduction to Robotics](https://publish.illinois.edu/ece470-intro-robotics/) (Fall 2019 - Spring 2020)
 
 [ECE 120: Introduction to Computing](https://wiki.illinois.edu//wiki/display/ece120/Home) (Fall 2018 - Spring 2019)
 

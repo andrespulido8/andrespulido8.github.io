@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year M.S. student in [Electrical and Computer Engineering](https://ece.illinois.edu), 
-[University of Illinois at Urbana Champaign](https://illinois.edu), advised by Professor [Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
- My research interest lies at the intersection of machine learning and robotics, specifically in robotic perception and 
- decision making in crowded environments. My long term goal is to enable interactive robots to serve people in daily life.   
+I'm a first year PhD student in [HCA Lab](https://publish.illinois.edu/humancenteredautonomy/) in 
+[Electrical and Computer Engineering](https://ece.illinois.edu), 
+[University of Illinois at Urbana Champaign](https://illinois.edu), 
+advised by Professor [Katherine Driggs-Campbell](https://krdc.web.illinois.edu).
+ My research interest lies at the intersection of machine learning and robotics, and I also draw inspirations human-robot interaction. 
+ My long term goal is to enable interactive robots to serve people in daily life.   
  
 Previously, I earned my Bachelor's Degree in Computer Engineering from University of Illinois at Urbana Champaign in May 2018.
 
@@ -26,3 +28,4 @@ Research interests:
 News
 ---
 - **09/28/2019:** My personal website is live!
+- **06/19/2020:** Starting my PhD journey in HCA group!
