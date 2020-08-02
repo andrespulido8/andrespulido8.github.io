@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuijing Liu"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shuijing Liu"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuijing Liu"
+  name             :
   avatar           : "profile.png"
   bio              : "AI + Robotics researcher, amateur artist, bubble tea master"
   location         : 3038 ECEB
