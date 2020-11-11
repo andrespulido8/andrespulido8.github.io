@@ -28,5 +28,5 @@ Research interests:
 News
 ---
 - **10/24/2020:** Our paper "Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control" is presented in [IROS 2020](https://www.iros2020.org)!
-- **06/19/2020:** Starting my PhD journey in HCA group!
+- **06/19/2020:** Starting my PhD journey in [HCA group](https://publish.illinois.edu/humancenteredautonomy/)!
 - **09/28/2019:** My personal website is live!

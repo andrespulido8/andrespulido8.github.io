@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ### **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning**  
-__Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger, Neeloy Chakraborty &dagger, and Katherine Driggs-Champbell.   
+__Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger; , Neeloy Chakraborty &dagger; , and Katherine Driggs-Champbell.   
 In submission for IEEE International Conference on Robotics and Automation (ICRA), 2021.
 [[Paper]](https://arxiv.org/abs/2011.04820) [[Video]](https://www.youtube.com/watch?v=AYugucvez4Q)
 
