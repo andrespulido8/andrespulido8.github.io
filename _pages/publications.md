@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+### **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning**  
+__Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger, Neeloy Chakraborty &dagger, and Katherine Driggs-Champbell.   
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2021.
+[[Paper]](https://arxiv.org/abs/2011.04820) [[Video]](https://www.youtube.com/watch?v=AYugucvez4Q)
 
 ### **Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control**  
 Peixin Chang, **Shuijing Liu**, Haonan Chen, Katherine Driggs-Champbell.   

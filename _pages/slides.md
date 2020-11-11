@@ -21,3 +21,7 @@ Here are some tutorial slides I made for interesting papers/skills.
 
 - A review of robot crowd navigation 
   - [My slides](/files/crowd_nav_shuijing.pdf)
+
+- Structural-RNN: Deep Learning on Spatio-Temporal Graphs by Jain et al.
+  - [[Original Paper]](https://cvgl.stanford.edu/papers/jain_cvpr16.pdf)
+  - [My slides](/files/st_graph.pdf)

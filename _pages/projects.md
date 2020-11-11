@@ -6,17 +6,17 @@ author_profile: true
 ---
 ## Current projects
 
-### Decentralized Vision-based Robot Crowd Navigation
-State-of-art decentralized robot crowd navigation algorithms have assumed full state observability of all agents in the environment. 
-But the sensor measurement of full state information can be expensive and sometimes inaccessible. To achieve safe and low-cost robot crowd
-navigation, we reformulate this problem by replacing the sensors with only one RGBD camera, 
-thus removing the full observability assumption.
-We find the performance of state-of-art algorithms degrade significantly if the robot only has a limited field-of-view. 
-We plan to use only an RGB camera for solving the partially observable crowd navigation problem.  
+### Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning
+Safe and efficient navigation through human crowds is an essential capability for mobile robots. 
+Previous work on robot crowd navigation assumes that the dynamics of all agents are known and well-defined. 
+In addition, the performance of previous methods deteriorates in partially observable environments and environments with dense crowds. 
+To tackle these problems, we propose decentralized structural-Recurrent Neural Network (DS-RNN), a novel network that reasons about spatial and temporal relationships for robot decision making in crowd navigation. 
+We train our network with model-free deep reinforcement learning without any expert supervision. 
+We demonstrate that our model outperforms previous methods and successfully transfer the policy learned in the simulator to a real-world TurtleBot 2i.
+[[Paper]](https://arxiv.org/abs/2011.04820) [[Video]](https://www.youtube.com/watch?v=AYugucvez4Q)
+<img src="/images/crowdnav.jpg" width="400" />   
 
-<img src="/images/CrowdMove.jpg" width="600" />   
 
-(Photo credit https://gamma.umd.edu)
 ## Past projects
 
 ### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
