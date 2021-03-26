@@ -5,6 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 ## Current projects
+### Improving Human-Robot Collaboration through Active Intent Estimation
+Collaborators: Haonan Chen, Peixin Chang, Prof. Katie Driggs-Campbell
+
+### Wayfinding Assistance Robot for People with Visual Impairments
+Collaborators: Aamir Hassan, Megan Bayles, Eric Liang, Prof. Katie Driggs-Campbell, Prof. Wendy Rogers, and many others
+
+### Developing Robot Sensorimotor Contigency by Self-supervised Learning: Combining Sight and Sound in Learning-Based Control
+Collaborators: Peixin Chang, Prof. Katie Driggs-Campbell
+
+### Hierarchical Self-Imitation Learning for Single-Agent Tasks with Sparse Rewards
+Collaborators: Neeloy Chakraborty, Prof. Katie Driggs-Campbell
+
+## Past projects
 
 ### Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning
 Safe and efficient navigation through human crowds is an essential capability for mobile robots. 
@@ -15,9 +28,6 @@ We train our network with model-free deep reinforcement learning without any exp
 We demonstrate that our model outperforms previous methods and successfully transfer the policy learned in the simulator to a real-world TurtleBot 2i.  
 [[Paper]](https://arxiv.org/abs/2011.04820) [[Video]](https://www.youtube.com/watch?v=AYugucvez4Q)  
 <img src="/images/crowdnav.jpg" width="450" />   
-
-
-## Past projects
 
 ### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
