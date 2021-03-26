@@ -26,7 +26,7 @@ In addition, the performance of previous methods deteriorates in partially obser
 To tackle these problems, we propose decentralized structural-Recurrent Neural Network (DS-RNN), a novel network that reasons about spatial and temporal relationships for robot decision making in crowd navigation. 
 We train our network with model-free deep reinforcement learning without any expert supervision. 
 We demonstrate that our model outperforms previous methods and successfully transfer the policy learned in the simulator to a real-world TurtleBot 2i.  
-[[Paper]](https://arxiv.org/abs/2011.04820) [[Video]](https://www.youtube.com/watch?v=AYugucvez4Q)  
+[[Paper]](https://arxiv.org/abs/2011.04820) [[Code]](https://github.com/Shuijing725/CrowdNav_DSRNN) [[Video]](https://www.youtube.com/watch?v=AYugucvez4Q)  
 <img src="/images/crowdnav.jpg" width="450" />   
 
 ### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
