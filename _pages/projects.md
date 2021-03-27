@@ -11,12 +11,25 @@ Collaborators: Haonan Chen, Peixin Chang, Prof. Katie Driggs-Campbell
 ### Wayfinding Assistance Robot for People with Visual Impairments
 Collaborators: Aamir Hassan, Megan Bayles, Eric Liang, Prof. Katie Driggs-Campbell, Prof. Wendy Rogers, and many others
 
+To navigate independently in a physical environment, people generally rely on visual cues to understand the environment.
+However, recent studies find that this is especially difficult for people with visual impairments.
+The currently available tools and technology for wayfinding are fairly limited to white canes, guide dogs, etc.
+Providing a robot guide that could facilitate wayfinding in a variety of environments would significantly improve the quality of life and, 
+most importantly, the independence of people with vision impairments. Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.
+
 ### Developing Robot Sensorimotor Contigency by Self-supervised Learning: Combining Sight and Sound in Learning-Based Control
 Collaborators: Peixin Chang, Prof. Katie Driggs-Campbell
 
 ### Hierarchical Self-Imitation Learning for Single-Agent Tasks with Sparse Rewards
 Collaborators: Neeloy Chakraborty, Prof. Katie Driggs-Campbell
 
+Reinforcement learning problems with sparse and delayed rewards are challenging to solve because the algorithms explore environments to gain experience from high performing rollouts.
+Classical methods of encouraging exploration during training such as ε-greedy and noise-based exploration are not adequate on their own to explore large state spaces.
+We propose a single agent reinforcement learning algorithm named HAC+GASIL that combines Generative Adversarial Self-Imitation Learning (GASIL) and
+Hierarchical Actor-Critic (HL).
+HAC+GASIL represents the agent as multiple trainable levels of Deep Deterministic Policy Gradient (DDPG) optimizers, 
+where the purpose of the higher-level policies is to set waypoints to guide the lower levels policies to receive the highest cumulative return. 
+To evaluate HAC+GASIL, we perform experiments in OpenAI Multi-Agent Particle Environment with sparse and delayed reward stochastic scenarios.
 ## Past projects
 
 ### Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning
