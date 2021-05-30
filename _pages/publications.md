@@ -6,12 +6,12 @@ author_profile: true
 ---
 ### **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning**  
 __Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger; , Neeloy Chakraborty &dagger; , and Katherine Driggs-Champbell.   
-In IEEE International Conference on Robotics and Automation (ICRA), 2021.
+In IEEE International Conference on Robotics and Automation (ICRA), 2021.   
 [[Paper]](https://arxiv.org/abs/2011.04820) [[Website]](https://sites.google.com/illinois.edu/crowdnav-dsrnn/home) [[Code]](https://github.com/Shuijing725/CrowdNav_DSRNN) [[Video]](https://youtu.be/bYO-1IAjzgY)
 
 ### **Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control**  
 Peixin Chang, **Shuijing Liu**, Haonan Chen, Katherine Driggs-Champbell.   
-In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
+In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.    
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
 
 ### **Robust Deep Reinforcement Learning with Adversarial Attacks**  
