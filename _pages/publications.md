@@ -12,7 +12,7 @@ In IEEE International Conference on Robotics and Automation (ICRA), 2021.
 ### **Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control**  
 Peixin Chang, **Shuijing Liu**, Haonan Chen, Katherine Driggs-Champbell.   
 In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.    
-[[Paper]](https://arxiv.org/abs/1909.09172) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
+[[Paper]](https://arxiv.org/abs/1909.09172) [[Website]](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
 
 ### **Robust Deep Reinforcement Learning with Adversarial Attacks**  
 Anay Pattanaik, Zhenyi Tang *, __Shuijing Liu__ *, Gautham Bommannan, Girish Chowdhary.   
