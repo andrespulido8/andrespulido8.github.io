@@ -13,8 +13,8 @@ To navigate independently in a physical environment, people generally rely on vi
 However, recent studies find that this is especially difficult for people with visual impairments.
 The currently available tools and technology for wayfinding are fairly limited to white canes, guide dogs, etc.
 Providing a robot guide that could facilitate wayfinding in a variety of environments would significantly improve the quality of life and, 
-most importantly, the independence of people with vision impairments. Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.
-<img src="/images/wayfinding.jpg" width="450" /> 
+most importantly, the independence of people with vision impairments. Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.    
+<img src="/images/wayfinding.jpg" width="450" />    
 (Photo credit: Travis Kadylak)
 
 ### Robot Crowd Navigation with Pedestrian Trajectory Prediction and Self-Attention DS-RNN
@@ -38,7 +38,7 @@ Then, we use this trait representation to learn a policy for an autonomous vehic
 Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency. 
 Our method demonstrates promising performance and outperforms state-of-the-art baselines in the T-intersection scenario.
 [[Paper]]()
-<img src="/images/trait_opening.jpg" width="450" /> 
+<img src="/images/trait_opening.png" width="450" /> 
 
 ### Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots
 Inspired by sensorimotor theory, we propose a novel pipeline for voice-controlled robots. 
