@@ -2,8 +2,22 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
+### **Learning to Navigate Intersections with Unsupervised Driver Trait Inference**  
+**Shuijing Liu**, Peixin Chang, Haonan Chen, Neeloy Chakraborty, and Katherine Driggs-Champbell.   
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2022.  
+[[Paper]]()
+
+### **Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots**  
+Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Champbell.   
+In submission for IEEE Robotics and Automation Letters (RA-L).   
+[[Paper]](https://arxiv.org/abs/2109.02823)
+
+### **Off Environment Evaluation Using Convex Risk Minimization**  
+Pulkit Katdare, **Shuijing Liu**, and Katherine Driggs-Champbell.   
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2022.  
+
 ### **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning**  
 __Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger; , Neeloy Chakraborty &dagger; , and Katherine Driggs-Champbell.   
 In IEEE International Conference on Robotics and Automation (ICRA), 2021.   
