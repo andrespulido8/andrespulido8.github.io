@@ -2,7 +2,7 @@
 layout: archive
 title: "Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 ---
 ## Current projects
 
@@ -36,7 +36,7 @@ We propose an unsupervised method for inferring driver traits such as driving st
 We use a variational autoencoder with recurrent neural networks to learn a latent representation of traits without any ground truth trait labels.
 Then, we use this trait representation to learn a policy for an autonomous vehicle to navigate through a T-intersection with deep reinforcement learning. 
 Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency. 
-Our method demonstrates promising performance and outperforms state-of-the-art baselines in the T-intersection scenario.
+Our method demonstrates promising performance and outperforms state-of-the-art baselines in the T-intersection scenario.   
 [[Paper]]()
 <img src="/images/trait_opening.png" width="450" /> 
 
@@ -48,7 +48,7 @@ To address these problems, we learn a representation that associates images and 
 Using this representation, we generate an intrinsic reward function to learn robotic tasks with reinforcement learning. 
 We demonstrate our approach on three robot platforms, a TurtleBot3, a Kuka-IIWA arm, and a Kinova Gen3 robot, which hear a command word, identify the associated target object, and perform precise control to approach the target. 
 We show that our method outperforms previous work across various sound types and robotic tasks empirically. 
-We successfully deploy the policy learned in simulator to a real-world Kinova Gen3.
+We successfully deploy the policy learned in simulator to a real-world Kinova Gen3.   
 [[Paper]](https://arxiv.org/abs/2109.02823) 
 <img src="/images/rsi2_opening.png" width="800" />  
 
