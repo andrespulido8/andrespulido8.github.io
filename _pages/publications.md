@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details.   
+
 ### **Learning to Navigate Intersections with Unsupervised Driver Trait Inference**  
 **Shuijing Liu**, Peixin Chang, Haonan Chen, Neeloy Chakraborty, and Katherine Driggs-Champbell.   
 In submission for IEEE International Conference on Robotics and Automation (ICRA), 2022.  
