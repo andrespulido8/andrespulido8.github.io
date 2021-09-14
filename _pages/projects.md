@@ -14,7 +14,6 @@ most importantly, the independence of people with vision impairments.
 Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.    
 
 <img src="/images/wayfinding.jpg" width="450" />    
-
 (Photo credit: Travis Kadylak)
 
 ### Robot Crowd Navigation with Pedestrian Trajectory Prediction and Self-Attention DS-RNN
@@ -32,8 +31,8 @@ Identifying the subtle differences in hidden traits of other drivers can bring s
 We propose an unsupervised method for inferring driver traits such as driving styles from observed vehicle trajectories. 
 Then, we use the inferred traits to improve the navigation of an autonomous vehicle through a T-intersection. 
 Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency. 
-
 [[Paper]]()   
+
 <img src="/images/trait_opening.png" width="450" /> 
 
 ### Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots
@@ -42,8 +41,8 @@ We learn a representation that associates images and sound commands with minimal
 Using this representation, we generate an intrinsic reward function to learn robotic tasks with reinforcement learning. 
 We demonstrate our approach on three robot platforms, a TurtleBot3, a Kuka-IIWA arm, and a Kinova Gen3 robot, which hear a command word, identify the associated target object, and perform precise control to approach the target. 
 We successfully deploy the policy learned in simulator to a real-world Kinova Gen3.   
-
 [[Paper]](https://arxiv.org/abs/2109.02823)    
+
 <img src="/images/rsi2_opening.png" width="800" />  
 
 ### Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning
@@ -52,6 +51,7 @@ We propose decentralized structural-Recurrent Neural Network (DS-RNN), a novel n
 We train our network with model-free deep reinforcement learning without any expert supervision. 
 We demonstrate that our model outperforms previous methods and successfully transfer the policy learned in the simulator to a real-world TurtleBot 2i.  
 [[Paper]](https://arxiv.org/abs/2011.04820) [[Website]](https://sites.google.com/illinois.edu/crowdnav-dsrnn/home) [[Code]](https://github.com/Shuijing725/CrowdNav_DSRNN) [[Video]](https://youtu.be/bYO-1IAjzgY)  
+
 <img src="/images/crowdnav.jpg" width="450" />   
 
 ### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
@@ -59,6 +59,7 @@ We explore the interpretation of sound for robot decision-making, inspired by hu
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
 deep neural network which directly learns control polices from images and sound signals.  
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Website]](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)  
+
 <img src="/images/rsi_opening.png" width="800" />
 
 ### Hierarchical Self-Imitation Learning for Single-Agent Tasks with Sparse Rewards
@@ -66,7 +67,7 @@ Reinforcement learning problems with sparse and delayed rewards are challenging 
 We propose a single agent reinforcement learning algorithm named HAC+GASIL that combines Generative Adversarial Self-Imitation Learning (GASIL) and
 Hierarchical Actor-Critic (HL).
 HAC+GASIL divides the policy of an agent into multiple levels and the hierarchical policy can be trained end-to-end.
-To evaluate HAC+GASIL, we perform experiments in OpenAI Multi-Agent Particle Environment with sparse and delayed reward stochastic scenarios.
+To evaluate HAC+GASIL, we perform experiments in OpenAI Multi-Agent Particle Environment with sparse and delayed reward stochastic scenarios.   
 [[Paper]](https://www.ideals.illinois.edu/handle/2142/110267)
 
 ### Robust Deep Reinforcement Learning with Adversarial Attacks
@@ -77,8 +78,9 @@ We found that our adversarial training significantly improves the robustness of 
 ### Prostate Cancer Diagnosis by Deep Learning
 Prostate cancer diagnosis requires expensive equipments and experienced trained pathologists.
 With recent advances in computer vision, we classify cancerous and healthy tissue biopsy images using ResNet. 
-Then, we use ensemble methods to boost the performance of ResNet models and achieve nearly perfect testing performance on the US Biomax prostate cancer dataset.
+Then, we use ensemble methods to boost the performance of ResNet models and achieve nearly perfect testing performance on the US Biomax prostate cancer dataset.   
 [[Abstract]](https://www.ideals.illinois.edu/handle/2142/100023) [[Paper]](/files/ECE499-Sp2018-liu-Shuijing.pdf) [[Slides]](/files/senior_thesis_presentation.pdf)
+
 <div class="imageContainer">
 <img src="/images/cancer_diagnosis.png" width="1100" />
 </div>
