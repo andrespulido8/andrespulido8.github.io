@@ -30,8 +30,8 @@ Navigation through uncontrolled intersections is one of the key challenges for a
 Identifying the subtle differences in hidden traits of other drivers can bring significant benefits when navigating in such environments.
 We propose an unsupervised method for inferring driver traits such as driving styles from observed vehicle trajectories. 
 Then, we use the inferred traits to improve the navigation of an autonomous vehicle through a T-intersection. 
-Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency. 
-[[Paper]]()   
+Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency.   
+[[Paper]](https://arxiv.org/abs/2109.06783)    
 
 <img src="/images/trait_opening.png" width="450" /> 
 
