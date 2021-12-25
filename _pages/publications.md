@@ -10,11 +10,11 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7u
 ### **Learning to Navigate Intersections with Unsupervised Driver Trait Inference**  
 **Shuijing Liu**, Peixin Chang, Haonan Chen, Neeloy Chakraborty, and Katherine Driggs-Champbell.   
 In submission for IEEE International Conference on Robotics and Automation (ICRA), 2022.  
-[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s)
+[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Code]](https://github.com/Shuijing725/VAE_trait_inference) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s)
 
 ### **Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots**  
 Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Champbell.   
-In submission for IEEE Robotics and Automation Letters (RA-L).   
+In submission for Robotics: Science and Systems (RSS), 2022.   
 [[Paper]](https://arxiv.org/abs/2109.02823)
 
 ### **Off Environment Evaluation Using Convex Risk Minimization**  
