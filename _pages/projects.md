@@ -62,6 +62,14 @@ deep neural network which directly learns control polices from images and sound 
 
 <img src="/images/rsi_opening.png" width="800" />
 
+### Off Environment Evaluation Using Convex Risk Minimization   
+Applying reinforcement learning (RL) methods on robots typically involves training a policy in simulation and deploying it on a robot in the real world. 
+However, model mismatch between the real world and the simulator causes RL agents to perform suboptimally.
+To address this, we propose a convex risk minimization algorithm to estimate the model mismatch between the simulator and the target domain. 
+We show that this estimator can be used to evaluate performance of RL agents in the target domain, effectively bridging the gap between simulation and real world. 
+Our experiments demonstrate that our method effectively evaluates performance of policies in OpenAI Gym environments and a real Kinova Gen3 arm.  
+[[Paper]](https://arxiv.org/abs/2112.11532)
+
 ### Hierarchical Self-Imitation Learning for Single-Agent Tasks with Sparse Rewards
 Reinforcement learning problems with sparse and delayed rewards are challenging to solve.
 We propose a single agent reinforcement learning algorithm named HAC+GASIL that combines Generative Adversarial Self-Imitation Learning (GASIL) and

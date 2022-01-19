@@ -19,7 +19,8 @@ In submission for Robotics: Science and Systems (RSS), 2022.
 
 ### **Off Environment Evaluation Using Convex Risk Minimization**  
 Pulkit Katdare, **Shuijing Liu**, and Katherine Driggs-Champbell.   
-In submission for IEEE International Conference on Robotics and Automation (ICRA), 2022.  
+In submission for IEEE International Conference on Robotics and Automation (ICRA), 2022.   
+[[Paper]](https://arxiv.org/abs/2112.11532)
 
 ### **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning**  
 __Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger; , Neeloy Chakraborty &dagger; , and Katherine Driggs-Champbell.   
