@@ -29,8 +29,9 @@ Research interests:
 
 News
 ---
+- **01/21/2022:** Two papers ["Learning to Navigate Intersections with Unsupervised Driver Trait Inference"](https://arxiv.org/abs/2109.06783) and ["Off Environment Evaluation Using Convex Risk Minimization"](https://arxiv.org/abs/2112.11532) are accepted in [ICRA2022](https://www.icra2022.org)!
 - **12/25/2021:** Please checkout the [open-source code](https://github.com/Shuijing725/VAE_trait_inference) for our paper "Learning to Navigate Intersections with Unsupervised Driver Trait Inference".
-- **3/25/2021:** Our paper "Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning" is accepted in [ICRA 2021](http://www.icra2021.org)! Also, checkout our code [here](https://github.com/Shuijing725/CrowdNav_DSRNN)!
-- **6/30/2020:** Our paper "Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control" is accepted in [IROS 2020](https://www.iros2020.org)!
+- **03/25/2021:** Our paper "Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning" is accepted in [ICRA 2021](http://www.icra2021.org)! Also, checkout our code [here](https://github.com/Shuijing725/CrowdNav_DSRNN)!
+- **06/30/2020:** Our paper "Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control" is accepted in [IROS 2020](https://www.iros2020.org)!
 - **06/19/2020:** Starting my PhD journey in [HCA group](https://publish.illinois.edu/humancenteredautonomy/)!
 - **09/28/2019:** My personal website is live!
