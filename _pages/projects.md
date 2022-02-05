@@ -54,7 +54,7 @@ We demonstrate that our model outperforms previous methods and successfully tran
 
 <img src="/images/crowdnav.jpg" width="450" />   
 
-### [Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation)
+### Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
 deep neural network which directly learns control polices from images and sound signals.  
@@ -68,7 +68,7 @@ However, model mismatch between the real world and the simulator causes RL agent
 To address this, we propose a convex risk minimization algorithm to estimate the model mismatch between the simulator and the target domain. 
 We show that this estimator can be used to evaluate performance of RL agents in the target domain, effectively bridging the gap between simulation and real world. 
 Our experiments demonstrate that our method effectively evaluates performance of policies in OpenAI Gym environments and a real Kinova Gen3 arm.  
-[[Paper]](https://arxiv.org/abs/2112.11532)
+[[Paper]](https://arxiv.org/abs/2112.11532) [[Code]](https://github.com/pulkitkatdare/offenveval)
 
 ### Hierarchical Self-Imitation Learning for Single-Agent Tasks with Sparse Rewards
 Reinforcement learning problems with sparse and delayed rewards are challenging to solve.
