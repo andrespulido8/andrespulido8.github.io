@@ -7,6 +7,20 @@ author_profile: true
 
 Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details.   
 
+### **Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**  
+__Shuijing Liu__ *, Peixin Chang *, Zhe Huang, Neeloy Chakraborty, Weihang Liang, Junyi Geng, Katherine Driggs-Campbell.  
+In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
+[[Paper]](https://arxiv.org/abs/2203.01821)  
+
+### **Occlusion-Aware Crowd Navigation Using People as Sensors**  
+Ye-Ji Mun, Masha Itkina, Shuijing Liu, and Katherine Driggs-Campbell.   
+In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.  
+
+### **World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis**   
+Weihang Liang, Neeloy Chakraborty *, Pranav Sriram *, Yixiao Fang, Zhe Huang, Peixin Chang, Shuijing Liu, and Katherine Driggs-Campbell.     
+In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
+ 
+
 ### **Learning to Navigate Intersections with Unsupervised Driver Trait Inference**  
 **Shuijing Liu**, Peixin Chang, Haonan Chen, Neeloy Chakraborty, and Katherine Driggs-Champbell.   
 To appear in IEEE International Conference on Robotics and Automation (ICRA), 2022.  

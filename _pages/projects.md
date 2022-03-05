@@ -6,6 +6,16 @@ author_profile: true
 ---
 ## Current projects
 
+### Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction  
+We study the problem of safe and socially aware robot navigation in dense and interactive human crowds.
+In this paper, we provide a more accurate representation of personal zones of walking pedestrians with their future trajectories. 
+The predicted personal zones are incorporated into a reinforcement learning framework to prevent the robot from intruding into the personal zones. 
+To learn socially aware navigation policies, we propose a novel recurrent graph neural network with attention mechanisms to capture the interactions among agents through space and time. 
+We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging crowd navigation scenarios.   
+[[Paper]](https://arxiv.org/abs/2203.01821) [[Video]]()
+
+<img src="/images/socialZone.png" width="450" /> 
+
 ### Wayfinding Assistance Robot for People with Visual Impairments  
 Recent studies find that independent navigation is especially difficult for people with visual impairments.
 The currently available tools for wayfinding are fairly limited to white canes, guide dogs, etc.
@@ -16,12 +26,16 @@ Through this project, we will explore the feasibility of robot navigation for gu
 <img src="/images/wayfinding.jpg" width="450" />    
 (Photo credit: Travis Kadylak)
 
-### Robot Crowd Navigation with Pedestrian Trajectory Prediction and Self-Attention DS-RNN
-We continue to explore robot crowd navigation with deep reinforcement learning.
-To increase the social awareness of the robot behaviors, we incorporate the predicted future trajectories of surrounding pedestrians into robot decision-making.
-To improve our previous Decentralized Structural-RNN (DS-RNN) network, we use a self-attention module to deal with a changing number of humans 
-and removes the requirement for human ID tracking.
+### World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis   
+Video prediction has a wide range of applications in planning and control for robotics. 
+However, previous do not account for camera motion and perform poorly in scenarios with moving cameras when they are deployed on autonomous vehicles and mobile robots. 
+We propose a geometry-based prediction framework named World in Motion. 
+Based on a sequence of observed frames, our method first predicts future camera poses and extracts the 3D geometry of the world, which are then jointly used to generate predicted future frames. 
+Specifically, we train a recurrent visual odometry model conditioned on raw RGB images with ground truth pose labels.
+Then, we train SynSin, a view synthesis method to generate 2D images from novel viewpoints using a 3D world representation. 
+We demonstrate that our hierarchical deterministic approach outperforms previous stochastic works on the KITTI dataset.  
 
+<img src="/images/world_in_motion.jpg" width="800" />
 
 ## Past projects
 
@@ -61,6 +75,15 @@ deep neural network which directly learns control polices from images and sound 
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Website]](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)  
 
 <img src="/images/rsi_opening.png" width="800" />
+
+### Occlusion-Aware Crowd Navigation Using People as Sensors   
+Occlusions are highly prevalent in crowded spaces due to a limited robot sensor range and obstructing human agents. 
+We propose integrating such social inference techniques into the planning pipeline.
+We use a variational autoencoder with a specially designed loss function to learn representations that are meaningful for occlusion inference. 
+We develop a deep reinforcement learning algorithm that incorporates the learned representations for occlusion-aware path planning that simultaneously learns to avoid collision with both observed and occluded human agents.
+We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
+To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.
+<img src="/images/pas.png" width="300" />
 
 ### Off Environment Evaluation Using Convex Risk Minimization   
 Applying reinforcement learning (RL) methods on robots typically involves training a policy in simulation and deploying it on a robot in the real world. 
