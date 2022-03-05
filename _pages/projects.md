@@ -35,7 +35,7 @@ Specifically, we train a recurrent visual odometry model conditioned on raw RGB 
 Then, we train SynSin, a view synthesis method to generate 2D images from novel viewpoints using a 3D world representation. 
 We demonstrate that our hierarchical deterministic approach outperforms previous stochastic works on the KITTI dataset.  
 
-<img src="/images/world_in_motion.jpg" width="800" />
+<img src="/images/world_in_motion.png" width="800" />
 
 ## Past projects
 
@@ -68,6 +68,15 @@ We demonstrate that our model outperforms previous methods and successfully tran
 
 <img src="/images/crowdnav.jpg" width="450" />   
 
+### Occlusion-Aware Crowd Navigation Using People as Sensors   
+Occlusions are highly prevalent in crowded spaces due to a limited robot sensor range and obstructing human agents. 
+We propose integrating such social inference techniques into the planning pipeline.
+We use a variational autoencoder with a specially designed loss function to learn representations that are meaningful for occlusion inference. 
+We develop a deep reinforcement learning algorithm that incorporates the learned representations for occlusion-aware path planning that simultaneously learns to avoid collision with both observed and occluded human agents.
+We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
+To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.  
+<img src="/images/pas.png" width="300" />
+
 ### Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
@@ -76,14 +85,6 @@ deep neural network which directly learns control polices from images and sound 
 
 <img src="/images/rsi_opening.png" width="800" />
 
-### Occlusion-Aware Crowd Navigation Using People as Sensors   
-Occlusions are highly prevalent in crowded spaces due to a limited robot sensor range and obstructing human agents. 
-We propose integrating such social inference techniques into the planning pipeline.
-We use a variational autoencoder with a specially designed loss function to learn representations that are meaningful for occlusion inference. 
-We develop a deep reinforcement learning algorithm that incorporates the learned representations for occlusion-aware path planning that simultaneously learns to avoid collision with both observed and occluded human agents.
-We demonstrate that our occlusion-aware policy can estimate agents in occluded spaces and achieves comparable navigation performance to a navigation policy with omniscient, full map information. 
-To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.
-<img src="/images/pas.png" width="300" />
 
 ### Off Environment Evaluation Using Convex Risk Minimization   
 Applying reinforcement learning (RL) methods on robots typically involves training a policy in simulation and deploying it on a robot in the real world. 

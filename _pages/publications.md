@@ -13,11 +13,11 @@ In submission for IEEE/RSJ International Conference on Intelligent Robots and Sy
 [[Paper]](https://arxiv.org/abs/2203.01821)  
 
 ### **Occlusion-Aware Crowd Navigation Using People as Sensors**  
-Ye-Ji Mun, Masha Itkina, Shuijing Liu, and Katherine Driggs-Campbell.   
+Ye-Ji Mun, Masha Itkina, **Shuijing Liu**, and Katherine Driggs-Campbell.   
 In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.  
 
 ### **World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis**   
-Weihang Liang, Neeloy Chakraborty *, Pranav Sriram *, Yixiao Fang, Zhe Huang, Peixin Chang, Shuijing Liu, and Katherine Driggs-Campbell.     
+Weihang Liang, Neeloy Chakraborty *, Pranav Sriram *, Yixiao Fang, Zhe Huang, Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Campbell.     
 In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
  
 
