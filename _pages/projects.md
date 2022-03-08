@@ -106,7 +106,7 @@ Then, we use ensemble methods to boost the performance of ResNet models and achi
 </div>
 
 
-# Machine Learning
+## Machine Learning
 
 ### Robust Deep Reinforcement Learning with Adversarial Attacks
 We propose adversarial attacks to perturb reinforcement learning algorithms (e.g. DQN, DDPG, etc), and then uses adversarial training to improve the robustness of these algorithms.
