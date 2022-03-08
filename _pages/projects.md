@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Current projects
+## Robot Crowd Navigation
 
 ### Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction  
 We study the problem of safe and socially aware robot navigation in dense and interactive human crowds.
@@ -14,50 +14,7 @@ To learn socially aware navigation policies, we propose a novel recurrent graph 
 We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging crowd navigation scenarios.   
 [[Paper]](https://arxiv.org/abs/2203.01821) [[Video]]()
 
-<img src="/images/socialZone.png" width="450" /> 
-
-### Wayfinding Assistance Robot for People with Visual Impairments  
-Recent studies find that independent navigation is especially difficult for people with visual impairments.
-The currently available tools for wayfinding are fairly limited to white canes, guide dogs, etc.
-Providing a robot guide that could facilitate wayfinding in a variety of environments would significantly improve the quality of life and, 
-most importantly, the independence of people with vision impairments. 
-Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.    
-
-<img src="/images/wayfinding.jpg" width="450" />    
-(Photo credit: Travis Kadylak)
-
-### World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis   
-Video prediction has a wide range of applications in planning and control for robotics. 
-However, previous do not account for camera motion and perform poorly in scenarios with moving cameras when they are deployed on autonomous vehicles and mobile robots. 
-We propose a geometry-based prediction framework named World in Motion. 
-Based on a sequence of observed frames, our method first predicts future camera poses and extracts the 3D geometry of the world, which are then jointly used to generate predicted future frames. 
-Specifically, we train a recurrent visual odometry model conditioned on raw RGB images with ground truth pose labels.
-Then, we train SynSin, a view synthesis method to generate 2D images from novel viewpoints using a 3D world representation. 
-We demonstrate that our hierarchical deterministic approach outperforms previous stochastic works on the KITTI dataset.  
-
-<img src="/images/world_in_motion.png" width="800" />
-
-## Past projects
-
-### Learning to Navigate Intersections with Unsupervised Driver Trait Inference
-Navigation through uncontrolled intersections is one of the key challenges for autonomous vehicles.
-Identifying the subtle differences in hidden traits of other drivers can bring significant benefits when navigating in such environments.
-We propose an unsupervised method for inferring driver traits such as driving styles from observed vehicle trajectories. 
-Then, we use the inferred traits to improve the navigation of an autonomous vehicle through a T-intersection. 
-Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency.   
-[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Code]](https://github.com/Shuijing725/VAE_trait_inference) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s)            
-
-<img src="/images/trait_opening.png" width="450" /> 
-
-### Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots
-Inspired by sensorimotor theory, we propose a novel pipeline for voice-controlled robots. 
-We learn a representation that associates images and sound commands with minimal supervision. 
-Using this representation, we generate an intrinsic reward function to learn robotic tasks with reinforcement learning. 
-We demonstrate our approach on three robot platforms, a TurtleBot3, a Kuka-IIWA arm, and a Kinova Gen3 robot, which hear a command word, identify the associated target object, and perform precise control to approach the target. 
-We successfully deploy the policy learned in simulator to a real-world Kinova Gen3.   
-[[Paper]](https://arxiv.org/abs/2109.02823)    
-
-<img src="/images/rsi2_opening.png" width="800" />  
+<img src="/images/socialZone.png" width="450" />  
 
 ### Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning
 Safe and efficient navigation through human crowds is an essential capability for mobile robots. 
@@ -77,6 +34,32 @@ We demonstrate that our occlusion-aware policy can estimate agents in occluded s
 To the best of our knowledge, this work is the first to use social occlusion inference for crowd navigation.  
 <img src="/images/pas.png" width="300" />
 
+
+## Autonomous Driving
+
+### Learning to Navigate Intersections with Unsupervised Driver Trait Inference
+Navigation through uncontrolled intersections is one of the key challenges for autonomous vehicles.
+Identifying the subtle differences in hidden traits of other drivers can bring significant benefits when navigating in such environments.
+We propose an unsupervised method for inferring driver traits such as driving styles from observed vehicle trajectories. 
+Then, we use the inferred traits to improve the navigation of an autonomous vehicle through a T-intersection. 
+Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency.   
+[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Code]](https://github.com/Shuijing725/VAE_trait_inference) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s)            
+
+<img src="/images/trait_opening.png" width="450" /> 
+
+
+## Instruction Following Robot
+
+### Robot Sound Interpretation: Learning Visual-Audio Representations for Voice-Controlled Robots
+Inspired by sensorimotor theory, we propose a novel pipeline for voice-controlled robots. 
+We learn a representation that associates images and sound commands with minimal supervision. 
+Using this representation, we generate an intrinsic reward function to learn robotic tasks with reinforcement learning. 
+We demonstrate our approach on three robot platforms, a TurtleBot3, a Kuka-IIWA arm, and a Kinova Gen3 robot, which hear a command word, identify the associated target object, and perform precise control to approach the target. 
+We successfully deploy the policy learned in simulator to a real-world Kinova Gen3.   
+[[Paper]](https://arxiv.org/abs/2109.02823)    
+
+<img src="/images/rsi2_opening.png" width="800" />  
+
 ### Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control
 We explore the interpretation of sound for robot decision-making, inspired by human speech comprehension.
 While previous methods use natural language processing to translate sound to text, we propose an end-to-end
@@ -84,6 +67,51 @@ deep neural network which directly learns control polices from images and sound 
 [[Paper]](https://arxiv.org/abs/1909.09172) [[Website]](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)  
 
 <img src="/images/rsi_opening.png" width="800" />
+
+
+## Assistive Robotics 
+
+### Wayfinding Assistance Robot for People with Visual Impairments  
+Recent studies find that independent navigation is especially difficult for people with visual impairments.
+The currently available tools for wayfinding are fairly limited to white canes, guide dogs, etc.
+Providing a robot guide that could facilitate wayfinding in a variety of environments would significantly improve the quality of life and, 
+most importantly, the independence of people with vision impairments. 
+Through this project, we will explore the feasibility of robot navigation for guidance and wayfinding.    
+
+<img src="/images/wayfinding.jpg" width="450" />    
+(Photo credit: Travis Kadylak)
+
+
+## Computer Vision
+
+### World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis   
+Video prediction has a wide range of applications in planning and control for robotics. 
+However, previous do not account for camera motion and perform poorly in scenarios with moving cameras when they are deployed on autonomous vehicles and mobile robots. 
+We propose a geometry-based prediction framework named World in Motion. 
+Based on a sequence of observed frames, our method first predicts future camera poses and extracts the 3D geometry of the world, which are then jointly used to generate predicted future frames. 
+Specifically, we train a recurrent visual odometry model conditioned on raw RGB images with ground truth pose labels.
+Then, we train SynSin, a view synthesis method to generate 2D images from novel viewpoints using a 3D world representation. 
+We demonstrate that our hierarchical deterministic approach outperforms previous stochastic works on the KITTI dataset.  
+
+<img src="/images/world_in_motion.png" width="800" />
+
+### Prostate Cancer Diagnosis by Deep Learning
+Prostate cancer diagnosis requires expensive equipments and experienced trained pathologists.
+With recent advances in computer vision, we classify cancerous and healthy tissue biopsy images using ResNet. 
+Then, we use ensemble methods to boost the performance of ResNet models and achieve nearly perfect testing performance on the US Biomax prostate cancer dataset.   
+[[Abstract]](https://www.ideals.illinois.edu/handle/2142/100023) [[Paper]](/files/ECE499-Sp2018-liu-Shuijing.pdf) [[Slides]](/files/senior_thesis_presentation.pdf)
+
+<div class="imageContainer">
+<img src="/images/cancer_diagnosis.png" width="1100" />
+</div>
+
+
+# Machine Learning
+
+### Robust Deep Reinforcement Learning with Adversarial Attacks
+We propose adversarial attacks to perturb reinforcement learning algorithms (e.g. DQN, DDPG, etc), and then uses adversarial training to improve the robustness of these algorithms.
+We found that our adversarial training significantly improves the robustness of RL algorithms to parameter variations in OpenAI Gym benchmarks.  
+[[Paper]](https://arxiv.org/abs/1712.03632) [[Video]](https://www.youtube.com/watch?v=8xPaca3cjEU) [[Poster]](/files/daslab_poster.pdf) [[Supplementary materials]](https://shuijing725.github.io/files/Supplementary_for_Robust_Deep_Reinforcement_Learning_with_Adversarial_Attacks.pdf)
 
 
 ### Off Environment Evaluation Using Convex Risk Minimization   
@@ -102,17 +130,4 @@ HAC+GASIL divides the policy of an agent into multiple levels and the hierarchic
 To evaluate HAC+GASIL, we perform experiments in OpenAI Multi-Agent Particle Environment with sparse and delayed reward stochastic scenarios.   
 [[Paper]](https://www.ideals.illinois.edu/handle/2142/110267)
 
-### Robust Deep Reinforcement Learning with Adversarial Attacks
-We propose adversarial attacks to perturb reinforcement learning algorithms (e.g. DQN, DDPG, etc), and then uses adversarial training to improve the robustness of these algorithms.
-We found that our adversarial training significantly improves the robustness of RL algorithms to parameter variations in OpenAI Gym benchmarks.  
-[[Paper]](https://arxiv.org/abs/1712.03632) [[Video]](https://www.youtube.com/watch?v=8xPaca3cjEU) [[Poster]](/files/daslab_poster.pdf) [[Supplementary materials]](https://shuijing725.github.io/files/Supplementary_for_Robust_Deep_Reinforcement_Learning_with_Adversarial_Attacks.pdf)
 
-### Prostate Cancer Diagnosis by Deep Learning
-Prostate cancer diagnosis requires expensive equipments and experienced trained pathologists.
-With recent advances in computer vision, we classify cancerous and healthy tissue biopsy images using ResNet. 
-Then, we use ensemble methods to boost the performance of ResNet models and achieve nearly perfect testing performance on the US Biomax prostate cancer dataset.   
-[[Abstract]](https://www.ideals.illinois.edu/handle/2142/100023) [[Paper]](/files/ECE499-Sp2018-liu-Shuijing.pdf) [[Slides]](/files/senior_thesis_presentation.pdf)
-
-<div class="imageContainer">
-<img src="/images/cancer_diagnosis.png" width="1100" />
-</div>
