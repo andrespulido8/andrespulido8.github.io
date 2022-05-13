@@ -1,9 +1,17 @@
 ---
 layout: archive
-title: "Teaching and Services"
+title: "Academic Services"
 permalink: /teaching/
 author_profile: true
 ---
+## Services
+Reviewer of RA-L, ICRA 2022, IROS 2022.  
+
+## Mentoring
+I'm a proud mentor of the following students:
+- [Neeloy Chakraborty](https://theneeloy.github.io/): BS Computer Engineering 2021, now PhD student in HCA lab.   
+- Jerry (Ruoxuan) Wang: BS Computer Engineering 2024.         
+
 ## Teaching
 ### Graduate Teaching Assistant
 [ECE 598: Human-Centered Robotics](https://publish.illinois.edu/ece598-hcr/) (Fall 2020)
@@ -15,5 +23,3 @@ author_profile: true
 ### Undergraduate Course Aide
 [ECE 110: Introduction to Electronics](https://courses.engr.illinois.edu/ece110/) (Fall 2016 - Spring 2018)
 
-## Services
-Reviewer of RA-L, ICRA 2022.

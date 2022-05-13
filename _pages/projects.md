@@ -12,7 +12,7 @@ In this paper, we provide a more accurate representation of personal zones of wa
 The predicted personal zones are incorporated into a reinforcement learning framework to prevent the robot from intruding into the personal zones. 
 To learn socially aware navigation policies, we propose a novel recurrent graph neural network with attention mechanisms to capture the interactions among agents through space and time. 
 We demonstrate that our method enables the robot to achieve good navigation performance and non-invasiveness in challenging crowd navigation scenarios.   
-[[Paper]](https://arxiv.org/abs/2203.01821) [[Video]]()
+[[Paper]](https://arxiv.org/abs/2203.01821) [[Video]](https://www.youtube.com/watch?v=p_asv42Kl8Q)  
 
 <img src="/images/socialZone.png" width="450" />  
 
@@ -43,7 +43,7 @@ Identifying the subtle differences in hidden traits of other drivers can bring s
 We propose an unsupervised method for inferring driver traits such as driving styles from observed vehicle trajectories. 
 Then, we use the inferred traits to improve the navigation of an autonomous vehicle through a T-intersection. 
 Our pipeline enables the autonomous vehicle to adjust its actions when dealing with drivers of different traits to ensure safety and efficiency.   
-[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Code]](https://github.com/Shuijing725/VAE_trait_inference) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s)            
+[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Code]](https://github.com/Shuijing725/VAE_trait_inference) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s) [[Presentation]](https://www.youtube.com/watch?v=hfSlciB1jew&t=29s)                 
 
 <img src="/images/trait_opening.png" width="450" /> 
 
