@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Shuijing Liu"
-description              : &description "personal description"
-url                      : https://shuijing725.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Andres Pulido"
+description              : &description "PhD student researching robotics planning and controls"
+url                      : https://andrespulido.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Shuijing725/Shuijing725.github.io"
+repository               : "andrespulido8/andrespulido.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 github                   : [metadata]
 breadcrumbs              : false # true, false (default)
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Andres Pulido"
   avatar           : "profile.png"
-  bio              : "AI + Robotics researcher, amateur artist, bubble tea master"
-  location         : 3038 ECEB
+  bio              : "Robotics + AI researcher, podcast host"
+  location         : MAE B 2nd floor
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en&oi=ao"
-  email            : "sliu105@illinois.edu"
+  googlescholar    : #"https://scholar.google.com/citations?user=r6zjM0oAAAAJ&hl=en"
+  email            : "andrespulido@ufl.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -97,24 +97,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shuijing725"
+  github           : "andrespulido8"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "shuijing-liu-4089b3123"
+  linkedin         : "andres-a-pulido"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "andrespulido28"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "UCKBl-71EGSprh2lNkHnQ5cg"
   wikipedia        :
 
 
