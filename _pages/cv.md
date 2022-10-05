@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Please find my CV [here](/files/CV2021.pdf).
+Please find my CV [here](/files/Pulido_Andres_Resume.pdf).
