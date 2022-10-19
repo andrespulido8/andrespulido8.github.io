@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Andres Pulido"
 description              : &description "PhD student researching robotics planning and controls"
-url                      : https://andrespulido.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andrespulido8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "andrespulido8/andrespulido.github.io"
+repository               : "andrespulido8/andrespulido8.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 github                   : [metadata]
 breadcrumbs              : false # true, false (default)
@@ -87,7 +87,7 @@ author:
   location         : MAE B 2nd floor
   employer         :
   pubmed           :
-  googlescholar    : 
+  googlescholar    : #"https://scholar.google.com/citations?user=r6zjM0oAAAAJ&hl=en"
   email            : "andrespulido@ufl.edu"
   researchgate     :
   uri              :
