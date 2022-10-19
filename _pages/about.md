@@ -27,3 +27,5 @@ Internship experiences:
 - **[UF REEF](https://avl.reef.ufl.edu/) - Robotics Engineering Intern** (May 2022 - Aug 2022)
 - **[Aurora Innovation](https://aurora.tech/) - Systems Engineering Intern** (May 2021 - Aug 2021)
 - **[Cummins](https://www.cummins.com/) - Product Validation Co-op** (Aug 2020 - Dec 2020)
+
+To read more about the internship experiences, please visit my [resume](https://andrespulido.github.io/cv/).
