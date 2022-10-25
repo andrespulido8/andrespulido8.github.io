@@ -5,58 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Please check my [Google Scholar](https://scholar.google.com/citations?user=I4k7ukgAAAAJ&hl=en) for details.
+## Journal
+A. L. Diaz, A. Ortega, H. Tingle, **A. Pulido**, O. Cordero, M. Nelson, N. Cocoves, J. Shin, R. Carthy, B. Wilkinson, and P. Ifju, **“The Bathy-Drone: An Autonomous Uncrewed Drone-Tethered Sonar System,”** Drones, vol. 6, no. 10, p. 294, Oct. 2022, doi: 10.3390/drones6100294.
+[[Paper]](https://www.mdpi.com/2504-446X/6/10/294) 
 
-## Under review
-
-### **Socially Aware Robot Crowd Navigation with Interaction Graphs and Human Trajectory Prediction**  
-__Shuijing Liu__ *, Peixin Chang *, Zhe Huang, Neeloy Chakraborty, Weihang Liang, Junyi Geng, Katherine Driggs-Campbell.  
-In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
-[[Paper]](https://arxiv.org/abs/2203.01821)  
-
-### **Learning Visual-Audio Representations for Voice-Controlled Robots**  
-Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Champbell.   
-In submission for Robotics and Automation Letters (RA-L).   
-[[Paper]](https://arxiv.org/abs/2109.02823)  
-
-### **Occlusion-Aware Crowd Navigation Using People as Sensors**  
-Ye-Ji Mun, Masha Itkina, **Shuijing Liu**, and Katherine Driggs-Campbell.   
-In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.  
-
-### **World in Motion: Geometry-based Video Prediction with Visual Odometry Prediction and View Synthesis**   
-Weihang Liang, Neeloy Chakraborty *, Pranav Sriram *, Yixiao Fang, Zhe Huang, Peixin Chang, **Shuijing Liu**, and Katherine Driggs-Campbell.     
-In submission for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.   
- 
 ## Conference
-
-### **Learning to Navigate Intersections with Unsupervised Driver Trait Inference**  
-**Shuijing Liu**, Peixin Chang, Haonan Chen, Neeloy Chakraborty, and Katherine Driggs-Champbell.   
-To appear in IEEE International Conference on Robotics and Automation (ICRA), 2022.  
-[[Paper]](https://arxiv.org/abs/2109.06783) [[Website]](https://sites.google.com/illinois.edu/vae-trait-inference/home) [[Code]](https://github.com/Shuijing725/VAE_trait_inference) [[Video]](https://www.youtube.com/watch?v=wqbgsjSvkAo&t=1s)
-
-### **Off Environment Evaluation Using Convex Risk Minimization**  
-Pulkit Katdare, **Shuijing Liu**, and Katherine Driggs-Champbell.   
-To appear in IEEE International Conference on Robotics and Automation (ICRA), 2022.   
-[[Paper]](https://arxiv.org/abs/2112.11532) [[Code]](https://github.com/pulkitkatdare/offenveval)
-
-### **Decentralized Structural-RNN for Robot Crowd Navigation with Deep Reinforcement Learning**  
-__Shuijing Liu__ *, Peixin Chang *, Weihang Liang &dagger; , Neeloy Chakraborty &dagger; , and Katherine Driggs-Champbell.   
-In IEEE International Conference on Robotics and Automation (ICRA), 2021.   
-[[Paper]](https://arxiv.org/abs/2011.04820) [[Website]](https://sites.google.com/illinois.edu/crowdnav-dsrnn/home) [[Code]](https://github.com/Shuijing725/CrowdNav_DSRNN) [[Video]](https://youtu.be/bYO-1IAjzgY)
-
-### **Robot Sound Interpretation: Combining Sight and Sound in Learning-Based Control**  
-Peixin Chang, **Shuijing Liu**, Haonan Chen, Katherine Driggs-Champbell.   
-In IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.    
-[[Paper]](https://arxiv.org/abs/1909.09172) [[Website]](https://sites.google.com/site/changpeixin/home/Research/robot_sound_interpretation) [[Video]](https://www.youtube.com/watch?v=0ONGQwhGn_Y)
-
-### **Robust Deep Reinforcement Learning with Adversarial Attacks**  
-Anay Pattanaik, Zhenyi Tang *, __Shuijing Liu__ *, Gautham Bommannan, Girish Chowdhary.   
-In 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2018. (Extended Abstract)  
-[[Paper]](https://arxiv.org/abs/1712.03632) [[Video]](https://www.youtube.com/watch?v=8xPaca3cjEU) [[Poster]](/files/daslab_poster.pdf) [[Supplementary materials]](https://shuijing725.github.io/files/Supplementary_for_Robust_Deep_Reinforcement_Learning_with_Adversarial_Attacks.pdf)
-
-## Thesis
-
-### **Prostate Cancer Diagnosis by Deep Learning**  
-**Shuijing Liu**.   
-Undergraduate Senior Thesis, May 2018.   
-[[Abstract]](https://www.ideals.illinois.edu/handle/2142/100023) [[Paper]](/files/ECE499-Sp2018-liu-Shuijing.pdf) [[Slides]](/files/senior_thesis_presentation.pdf)
+**Andres Pulido**, Antonio Diaz,Ruoyao Qin, Antonio Diaz, Andrew Ortega, Peter Ifju, Jane Shin, "**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection** ", OCEANS 2022 Conference (Accepted, but in the process of being published)

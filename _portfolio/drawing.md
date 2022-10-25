@@ -1,5 +1,0 @@
----
-title: "Drawings"
-collection: portfolio
----
-
