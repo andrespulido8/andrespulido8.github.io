@@ -21,7 +21,7 @@ This paper considers a trajectory planning and control problem for a drone that 
 
 ### Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection 
 This paper introduces an efficient algorithm that generates a sparse 3D point cloud from side-scan sonar images. This computation is done in a computationally efficient manner by leveraging the geometry of the first sonar return combined with known positions provided by GPS and down-scan sonar depth measurement at each data point. Additionally, this paper implements another algorithm that uses YOLO, a Convolutional Neural Network (CNN) to perform object detection on side-scan sonar images collected in real life and generated with a simulation. The algorithm was tested on both real and synthetic images to show reasonably accurate anomaly detection and classification.
-[[Code]](https://github.com/andrespulido8/jupyter-notebooks/tree/aaa897c4248bb9b09f7f74eba1f3798313333720) [[Presentation]](/files/OCEANS-1.pdf)
+[[Code]](https://github.com/andrespulido8/jupyter-notebooks/tree/aaa897c4248bb9b09f7f74eba1f3798313333720) [[Presentation]](/files/OCEANS-1.pdf) [[Preprint]](https://arxiv.org/abs/2210.10263)
 
 <img src="/images/oceans.png" width="450" /> 
 <img src="/images/object_detection.png" width="450" /> 

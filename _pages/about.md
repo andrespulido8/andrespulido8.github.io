@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student in [APRILab](https://aprilab.mae.ufl.edu/) at  
+I'm a graduate student in [APRILab](https://aprilab.mae.ufl.edu/) at  
 the [University of Florida](https://ufl.edu), 
 advised by Assistant Professor [Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/). I am also involved
 in the Machine Intelligence Lab [(MIL)](http://subjugator.org/), where I have worked in the mechanical and software team for four years. 
  
 Previously, I earned my Bachelor's Degree in Mechanical Engineering also from University of Florida in May 2021.
+
+Read about my [Projects](https://andrespulido8.github.io/projects/), [Publications](https://andrespulido8.github.io/publications/), and [Podcast](https://andrespulido8.github.io/podcast/).
 
 Research interests:
 
