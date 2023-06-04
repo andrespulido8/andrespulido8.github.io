@@ -8,7 +8,7 @@ author_profile: true
 
 ### Information Driven Guidance for Object Detection 
 Project consisted of implementation of an information-driven trajectory planning for target tracking under noisy and intermittent measurements. The sensor planning algorithm  improves the target tracking performance by choosing the optimal sensor trajectory that allows sensors to obtain the most informative measurement, i.e., to minimize the uncertainty of the predicted distribution made by a neural network.
-(Work in progress)
+[Poster](/files/Pulido_MML_horizontal.pdf)(Work in progress)
 
 <img src="/images/particles.png" width="450" /> 
 
