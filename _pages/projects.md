@@ -8,13 +8,13 @@ author_profile: true
 
 ### Information Driven Guidance for Object Detection 
 Project consisted of implementation of an information-driven trajectory planning for target tracking under noisy and intermittent measurements. The sensor planning algorithm  improves the target tracking performance by choosing the optimal sensor trajectory that allows sensors to obtain the most informative measurement, i.e., to minimize the uncertainty of the predicted distribution made by a neural network.
-[Poster](/files/Pulido_MML_horizontal.pdf)(Work in progress)
+[[Poster]](/files/Pulido_MML_horizontal.pdf)(Work in progress)
 
 <img src="/images/particles.png" width="450" /> 
 
 ### Trajectory Planning and Control of Bathy-drone: A Drone Towing a Boat equipped with Sonar for Bathymetry Mapping 
 This paper considers a trajectory planning and control problem for a drone that drags an unpowered boat via a tether and is tasked with underwater bathymetry mapping. This platform, named Bathy-drone, consists of a boat equipped with a side-scan sonar sensor that can scan the seafloor and obtain sonar imagery. Because the sonar vessel is unpowered, this platform is able to scan shallow water environments that other boats with propulsion systems cannot navigate. However, because the sensing unit is dragged through a tether, which can be taut or loose, the vessel trajectory does not coincide with the drone trajectory. Additionally, obstacle avoidance must incorporate the delayed dynamics of the vessel because the drone can pull the vessel only when the tether is taut. This paper proposes a trajectory planning and control approach for a drone that can maneuver a tethered vessel such that the sensor field-of-view scans the entire given region of interest. The proposed trajectory planning and control approach will be developed by a Gazebo Simulator and demonstrated by experiments on a retention pond in Citra, FL.
-(Work to be presented at SciTech Conference 2023)
+[[Conference paper]](https://arc.aiaa.org/doi/10.2514/6.2023-1811)[[Presentation]](/files/Pulido_SciTech23.pdf)
 <img src="/images/bathydrone_dynamics.png" width="450" /> 
 
 ### Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection 
