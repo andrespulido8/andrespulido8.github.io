@@ -14,15 +14,6 @@ Previously, I earned my Bachelor's Degree in Mechanical Engineering also from Un
 
 Read about my [Projects](https://andrespulido8.github.io/projects/), [Publications](https://andrespulido8.github.io/publications/), and [Podcast](https://andrespulido8.github.io/podcast/).
 
-# link to the internship experiences heading in the same page 
-[Internship experiences](#internship-experiences)
-
-<img src="/images/python_sim.gif" width="450" /> 
-
-<video width="480" height="320" controls="controls">
-  <source src="/videos/overhead_particles_3X.mp4" type="video/mp4">
-</video>
-
 Research interests:
 
 - Robotics motion planning
