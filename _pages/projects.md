@@ -11,7 +11,7 @@ author_profile: true
 <img src="/images/FigFramework_annotated.png" width="450" /> 
 
 Project consisted of implementation of an information-driven trajectory planning for target tracking under noisy and intermittent measurements. The sensor planning algorithm  improves the target tracking performance by choosing the optimal sensor trajectory that allows sensors to obtain the most informative measurement, i.e., to minimize the uncertainty of the predicted distribution made by a transformer-based neural network. I worked on the problem formulation, solution derivation and hardware implemention to evaluate the algorith with oher baselines. 
-[[Poster]](/files/Pulido_MML_horizontal.pdf)(Work in progress)
+[[Poster]](/files/Pulido_MML_horizontal.pdf)(Reviewing for submission to RA-L)
 
 <video width="480" height="320" controls="controls">
   <source src="/videos/overhead_particles_3X.mp4" type="video/mp4">
@@ -35,13 +35,13 @@ This paper introduces an efficient algorithm that generates a sparse 3D point cl
 ## Competition Projects
 
 ### System ID, dynamic modeling, control, and state estimation of a underwater vehicle - SubjuGator and a autonomous sruface vehicle - NaviGator  
-As part of the Machine Intelligence Lab (MIL) at the University of Florida, since 2018, I served as the lead mechanical engineer, a software team member and I am now adivising the team. A small sample of the projects I have led are: 
+As part of the Machine Intelligence Lab (MIL) at the University of Florida, since 2018, I served as the lead mechanical engineer, a software team member and I am now adivising the team. A small sample of the projects I have led are: [[Website]](http://subjugator.org/), [[Code]](https://github.com/uf-mil/mil/)
 - I have been currently writing an unscented Kalman filter to do state estimation for the next-generation submarine. 
 - To take into account external disturbances, I have also implemented a Concurrent Learning-based adaptive controller for the surface vehicle boat that learns systems parameters.  
 - The model of a submarine contains unknown parameters that needed to be found in either simulations or experimentation with the physical vehicle. Therfore, I performed a system ID method by fitting data collected in the pool to a dynamic model and find the drag and inertia parameters of the submarine.
-[[Website]](http://subjugator.org/), [[Code]](https://github.com/uf-mil/mil/)
 
-<img src="/images/subjugator.png" width="450" /> 
+
+<img src="/images/subjugator.png" width="400" /> 
 <img src="/images/NaviGator.png" width="450" /> 
 
 ## Course Projects
