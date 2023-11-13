@@ -12,4 +12,4 @@ Interviews with faculty doing interesting things. Discussions that navigate topi
 [Podcast Page](https://anchor.fm/andres-pulido5)
 ### How to watch it
 - [YouTube](https://www.youtube.com/playlist?list=PLFn7Fn5wd5p-quHz_YdoxrUryu0MRP6d0)
-- [Spotify](https://open.spotify.com/episode/7lIxLKAKO8pDt6vkmU7TBX)
+- [Spotify](https://open.spotify.com/show/4lKeqmXcVUN6XFQVhCXtgJ?si=efaa74271b2b454c)
