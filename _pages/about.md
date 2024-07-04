@@ -24,6 +24,7 @@ Research interests:
 
 ## Internship experiences:
 ---
+- **[Aurora Innovation](https://aurora.tech/) - Software Engineering Intern** (May - Aug 2024)
 - **[UF REEF](https://avl.reef.ufl.edu/) - Robotics Software Intern** (May - Aug 2022 & 2023)
 - **[Aurora Innovation](https://aurora.tech/) - Systems Engineering Intern** (May - Aug 2021)
 - **[Cummins](https://www.cummins.com/) - Product Validation Co-op** (Aug - Dec 2020)
