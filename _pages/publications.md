@@ -10,8 +10,8 @@ A. L. Diaz, A. Ortega, H. Tingle, **A. Pulido**, O. Cordero, M. Nelson, N. Cocov
 [[Paper]](https://www.mdpi.com/2504-446X/6/10/294) 
 
 ## Conference
-**A. Pulido**, N. Sardinia, B. Sanders, P. Ifju, and J. Shin, “Coverage path planning for a robotics platform equipped with a side-scan sonar sensor for underwater bathymetry mapping,” in AIAA SCITECH 2024 Forum (Abstract Accepted, presenting in January 2024)
+**Andres Pulido**, Blake Sanders, Nicholas Sardinia, Antonio Diaz, Henry Tingle, Peter Ifju and Jane Shin, "**Coverage path planning for a robotics platform equipped with a side-scan sonar sensor for underwater bathymetry mapping**” AIAA SciTech 2024 Forum [[Conference Paper]](https://arc.aiaa.org/doi/10.2514/6.2024-1204) 
 
 **Andres Pulido**, Ruoyao Qin, Antonio Diaz, Andrew Ortega, Peter Ifju, Jane Shin, "**Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection** ", OCEANS 2022 Conference [[Preprint]](https://arxiv.org/abs/2210.10263) [[Conference Paper]](https://ieeexplore-ieee-org.lp.hscl.ufl.edu/document/9977073) 
  
-**Andres Pulido**, Antonio Diaz, Andrew Ortega, Peter Ifju, Jane Shin, "**Modeling, Trajectory Planning, and Control of the Bathy-drone: A Drone Towing a Boat Equipped with Sonar for Bathymetry Mapping** ", SciTech 23 Conference [[Conference paper]](https://arc.aiaa.org/doi/10.2514/6.2023-1811) 
+**Andres Pulido**, Antonio Diaz, Andrew Ortega, Peter Ifju, Jane Shin, "**Modeling, Trajectory Planning, and Control of the Bathy-drone: A Drone Towing a Boat Equipped with Sonar for Bathymetry Mapping** ", AIAA SciTech 2023 Forum [[Conference paper]](https://arc.aiaa.org/doi/10.2514/6.2023-1811) 
