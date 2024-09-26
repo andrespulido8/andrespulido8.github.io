@@ -10,7 +10,7 @@ author_profile: true
 
 <img src="/images/FigFramework_annotated.png" width="450" /> 
 
-Project consisted of implementation of an information-driven trajectory planning for target tracking under noisy and intermittent measurements. The sensor planning algorithm  improves the target tracking performance by choosing the optimal sensor trajectory that allows sensors to obtain the most informative measurement, i.e., to minimize the uncertainty of the predicted distribution made by a transformer-based neural network. I worked on the problem formulation, solution derivation and hardware implemention to evaluate the algorith with oher baselines. 
+Project consisted of implementation of an information-driven trajectory planning for target tracking under noisy and intermittent measurements. The sensor planning algorithm improves the target tracking performance by choosing the optimal sensor trajectory that allows sensors to obtain the most informative measurement, i.e., to minimize the uncertainty of the predicted distribution made by a transformer-based neural network. I worked on the problem formulation, solution derivation and hardware implementation to evaluate the algorithm with other baselines.
 [[Poster]](/files/Pulido_MML_horizontal.pdf)(Reviewing for submission to RA-L)
 
 <video width="480" height="320" controls="controls">
