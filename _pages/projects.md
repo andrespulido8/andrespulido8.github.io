@@ -20,7 +20,7 @@ Project consisted of designing here should a drone go to gain to better track an
 The Bathy-Drone robot is an autonomous drone towing a tethered boat equipped with sonar. It can be flown to the survey location to perform applications such as bathymetry, underwater structure inspection, marine life surveying. I was in charge of anything software related including autonomy. I developed or supervised the simulation, perception, planning, localization and controls algorithms. To read more about the project, click [here](/projects/bathydrone_project/).
 
 
-## System ID, dynamic modeling, control, and state estimation of a underwater vehicle - SubjuGator and a autonomous surface vehicle - NaviGator  
+## System ID, dynamic modeling, control, and state estimation of a underwater vehicle (SubjuGator) and an autonomous surface vehicle (NaviGator)  
 <img src="/images/subjugator.png" width="335" /> 
 <img src="/images/NaviGator.png" width="450" /> 
 
