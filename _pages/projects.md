@@ -19,6 +19,14 @@ Project consisted of designing here should a drone go to gain to better track an
 
 The Bathy-Drone robot is an autonomous drone towing a tethered boat equipped with sonar. It can be flown to the survey location to perform applications such as bathymetry, underwater structure inspection, marine life surveying. I was in charge of anything software related including autonomy. I developed or supervised the simulation, perception, planning, localization and controls algorithms. To read more about the project, click [here](/projects/bathydrone_project/).
 
+## Robust Multi-Camera Multi-object Tracking and Attack Detection System
+<video width="700" height="900" controls="controls">
+  <source src="/videos/RAITE_homography.mp4" type="video/mp4">
+</video>
+
+Developed a ML model to track aerial and ground robots moving around in a cluttered environment and be robust against attacks. The attacks were physical disturbances such as glare, netting and optical filters in the camera, smoke, clutter from other moving objects, images, etc. I was part of the team that trained the vision model and designed/implemented a multi-camera estimator to keep track of the robots even under occlusions from one camera. The estimator was implemented as a Kalman Filter with a Global Nearest Neighbor to associate the measurements from different cameras.  
+The project's goal is to developed a system that can accurately detect when an attack has occurred on the system, determine which sensor has been attacked, generate timely alerts to notify human operators of the detected attack and compromised sensor, and leverage data from uncompromised systems to recover from the attack.
+
 
 ## System ID, dynamic modeling, control, and state estimation of a underwater vehicle (SubjuGator) and an autonomous surface vehicle (NaviGator)  
 <img src="/images/subjugator.png" width="335" /> 
