@@ -22,7 +22,7 @@ This paper considers a trajectory planning and control problem for a drone that 
 This paper introduces a Coverage Path Planning (CPP) algorithm for underwater bathymetry mapping of small water bodies. The presented CPP algorithm is designed to be adaptable to various geometries and scales of target regions and sensor field-of-views (FOVs), making it particularly suitable for non-holonomic vehicles like the Bathy-drone, which face constraints such as limited turning radii. The algorithm integrates a novel edge detection process using off-the-shelf computer vision algorithms, enabling the identification and modification of water body edges for effective sensor coverage. The CPP algorithm is engineered to enhance coverage efficiency and mapping accuracy, adjusting swath orientation and length for optimal sonar sensor utilization. The CPP algorithm features the easy parameterization from users for tailored path planning and includes a heuristic method for path integration post swath computation, supported by a graphical user interface (GUI) for direct user modifications.  
 [[Conference Paper]](https://arc.aiaa.org/doi/10.2514/6.2024-1204) 
 
-<img src="/images/Newnans_path.png" width="350" /> 
+<img src="/images/quarry_lake.png" width="350" /> 
 <img src="/images/citra_mission.png" width="315" /> 
 
 ## Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection 
