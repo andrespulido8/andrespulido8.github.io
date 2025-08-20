@@ -3,6 +3,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Industry Experiences"
+    url: /industry_experiences/
+
   - title: "Publications"
     url: /publications/
 
@@ -11,5 +14,3 @@ main:
 
   - title: "Podcast"
     url: /podcast/
-
-
