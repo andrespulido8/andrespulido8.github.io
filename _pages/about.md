@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student in [APRILab](https://aprilab.mae.ufl.edu/) at the [University of Florida](https://ufl.edu), advised by Assistant Professor [Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/). I am also involved in the Machine Intelligence Lab [(MIL)](http://subjugator.org/), where I have worked in the mechanical and software team for five years. I have also had a couple of [internship positions](https://andrespulido8.github.io/industry_experiences/) in the autonomous vehicle industry.
-
-Previously, I earned my Bachelor's and Master's Degree in Mechanical Engineering also from University of Florida in May 2021 and May 2023 respectively.
+I'm a software engineer in the motion planning org at [Rivian](https://rivian.com/autonomy). Previously, I was a graduate student in [APRILab](https://aprilab.mae.ufl.edu/) at the [University of Florida](https://ufl.edu), advised by Assistant Professor [Jane Shin](https://mae.ufl.edu/people/faculty/primary/profiles/jane-jaejeong-shin/). During my undergrad I was also involved in the Machine Intelligence Lab [(MIL)](http://subjugator.org/), where I worked in the mechanical and software team. I have also had a couple of [internship positions](https://andrespulido8.github.io/industry_experiences/) in the autonomous vehicle industry.
 
 Read about my [Projects](https://andrespulido8.github.io/projects/), [Industry Experiences](https://andrespulido8.github.io/industry_experiences/), [Publications](https://andrespulido8.github.io/publications/), and [Podcast](https://andrespulido8.github.io/podcast/).
 
